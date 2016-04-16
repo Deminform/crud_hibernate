@@ -6,9 +6,6 @@ import javax.persistence.Entity;
 import javax.persistence.Id;
 import java.sql.Timestamp;
 
-/**
- * Created by EBPO on 16.04.2016.
- */
 @Entity
 public class User {
     private int id;
